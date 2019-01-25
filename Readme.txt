@@ -1,0 +1,1 @@
+SafeConnect is a cloud based dynamic web application that improves employee safety performance and drives towards zero incidents through monitored data analytics built into the application.
